@@ -26,4 +26,4 @@ def main(file):
     obj=Datainfo(file)
 
 if __name__ == "__main__":
-    main('iris.csv')
+    main()
