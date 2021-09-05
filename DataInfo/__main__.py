@@ -22,7 +22,7 @@ class Datainfo:
 
 
 
-def main(file):
+def main(file=input()):
     obj=Datainfo(file)
 
 if __name__ == "__main__":
