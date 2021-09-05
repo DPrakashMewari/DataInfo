@@ -13,3 +13,6 @@ And then pass the csv name
 @ 2021 Prakash Mewari
 
 This is repo is licensed under the MIT license.
+
+# Or You can Go:
+https://test.pypi.org/project/DataInfo/
